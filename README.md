@@ -13,3 +13,5 @@ Apresentações das Aulas:
 Aula 00 - Aula Inaugural: https://docs.google.com/presentation/d/17i9Xl-wlSM38f6KWh9VSeGfJOZ8tyKo6EsZWMBoXHCw/edit?usp=sharing
 
 Aula 01 - Introdução a Desenvolvimento Web Front-end: https://docs.google.com/presentation/d/1-Fo9qm4_eDesba0vk3yuHbGB01SBpQxLV-ez3bR3eFI/edit?usp=sharing
+
+Aula 02 - Introdução a Desenvolvimento com React: https://docs.google.com/presentation/d/1NMhJlvlOLlAD7pU7AJR8NeYmaZiD7It8tPb5XAH2Tzk/edit?usp=sharing
