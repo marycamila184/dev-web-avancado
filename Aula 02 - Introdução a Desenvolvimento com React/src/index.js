@@ -1,21 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import 'bootstrap/dist/css/bootstrap.css';
+
 import './index.css';
 
 // Componentes
-import Header from './components/Header/index';
-import Title from './components/Title/index';
-import Filme from './components/Filme/index';
-import Footer from './components/Footer/index';
+import App from './App'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-   <Header />
-   <Title />
-   <Filme />
-   <Footer />
+    <App />
   </React.StrictMode>
 );
 
