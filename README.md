@@ -17,3 +17,5 @@ Aula 01 - Introdução a Desenvolvimento Web Front-end: https://docs.google.com/
 Aula 02 - Introdução a Desenvolvimento com React: https://docs.google.com/presentation/d/1NMhJlvlOLlAD7pU7AJR8NeYmaZiD7It8tPb5XAH2Tzk/edit?usp=sharing
 
 Aula 03 - Rotas e Parâmetros: https://docs.google.com/presentation/d/1DKUf9CS7Xra2AoBc0B7Ym1upKltNl_YG16ocEArILD0/edit?usp=sharing
+
+Aula 04 - Props e Projeto Catálogo de Filmes: https://docs.google.com/presentation/d/1_Iw6IhFxzequQOopfCmq1kV2pYeePqRzuhUgB8ZRI10/edit?usp=share_link
