@@ -1,10 +1,12 @@
-import "./Filme.css";
+import "./card.css";
+import Comments from './../Comments/index';
 
 const filmes = [{
   "nome": "Vingadores",
   "duracao": "2H30",
   "foto": "vingadores.png",
   "ano": 2010,
+  "assistido": true,
   "genero": "Ação/Nerd",
   "descricao": "Filme da Marvel com super-heróis",
   "nota": 5
@@ -14,6 +16,7 @@ const filmes = [{
   "duracao": "2H30",
   "foto": "vingadores.png",
   "ano": 2014,
+  "assistido": true,
   "genero": "Ação/Nerd",
   "descricao": "Filme da Marvel com super-heróis",
   "nota": 5
@@ -23,18 +26,26 @@ const filmes = [{
   "duracao": "2H30",
   "foto": "vingadores.png",
   "ano": 2015,
+  "assistido": false,
   "genero": "Ação/Nerd",
   "descricao": "Filme da Marvel com super-heróis",
   "nota": 5
 }
 ]
 
-export default function Filme() {
+function Assitido({ javisto }) {
+  if (javisto) {
+    return <p>Assistido ✔</p>;
+  }
+  return <p className="item">Não assistido</p>;
+}
+
+export default function Card() {
   return (
     <div className="container text-center">
-      <div class="row">
+      <div className="row">
         {filmes.map((filme, i) => (
-          <div className="col" key={i.toString()}>
+          <div className="col" key={i}>
             <div className="card">
               <img src={'/assets/images/' + filme.foto} alt={filme.nome} className="card-img-top" />
               <div className="card-body">
@@ -44,6 +55,9 @@ export default function Filme() {
                 <p>{filme.duracao}</p>
                 <p>{filme.genero}</p>
                 <p>{filme.nota}</p>
+                <Assitido
+                  javisto={filme.assistido}
+                />
                 <a
                   href={`/detalhes/${filme.nome}`}
                 >
@@ -53,6 +67,7 @@ export default function Filme() {
                 </a>
               </div>
             </div>
+            <Comments filme={filme.nome} />
           </div>
         ))}
       </div>
