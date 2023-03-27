@@ -1,5 +1,5 @@
 import "./card.css";
-import Comments from './../Comments/index';
+
 
 const filmes = [{
   "nome": "Vingadores",
@@ -67,7 +67,7 @@ export default function Card() {
                 </a>
               </div>
             </div>
-            <Comments filme={filme.nome} />
+
           </div>
         ))}
       </div>

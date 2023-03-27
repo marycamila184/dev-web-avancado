@@ -1,35 +1,47 @@
 const commentarios = [{
-    "usuario": "mary",
-    "comentario": "Muito bom, gostei demais!",
-    "filme": "vingadores 2"
+    "filme": "Vingadores", "comenatarios": [{
+        "usuario": "mary",
+        "comentario": "Muito bom, gostei demais!"
+    },
+    {
+        "usuario": "mary",
+        "comentario": "Muito bom, gostei muito!"
+    },
+    {
+        "usuario": "mary",
+        "comentario": "Muito bom, gostei!"
+    }
+    ]
 },
 {
-    "usuario": "mary",
-    "comentario": "Muito bom, gostei muito!",
-    "filme": "vingadores 3"
-},
-{
-    "usuario": "mary",
-    "comentario": "Muito bom, gostei!",
-    "filme": "vingadores"
+    "filme": "Vingadores 2", "comenatarios": [{
+        "usuario": "mary",
+        "comentario": "Muito bom, gostei demais!"
+    },
+    {
+        "usuario": "mary",
+        "comentario": "Muito bom, gostei muito!"
+    }
+    ]
 }
 ]
 
 export default function Comments({ filme }) {
-    const comentariosFilme = commentarios.filter(filmec =>
-        filmec.filme === 'vingadores'
+    const comentariosFilme = commentarios.filter(f =>
+        f.filme === filme
     );
     return (
         <div className="container text-center">
-            <div className="row">
-                {comentariosFilme.map((comment, i) => (
-                    <div className="col" key={i.toString()}>
-                        <div className="card">
-                            {comment.comentario}
-                        </div>
+            {comentariosFilme[0].comenatarios.map((comment, i) => (
+                <div className="row">
+                    <div className="col-md-3" key={i.toString()}>
+                        {comment.usuario}
                     </div>
-                ))}
-            </div>
+                    <div className="col-md-9" key={i.toString()}>
+                        {comment.comentario}
+                    </div>
+                </div>
+            ))}
         </div>
     )
 }

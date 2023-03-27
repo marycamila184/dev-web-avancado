@@ -1,6 +1,7 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
 import Title from './../components/Title/index';
+import Comments from './../components/Comments/index';
 
 const filmes = [{
     "nome": "Vingadores",
@@ -26,36 +27,23 @@ const filmes = [{
 function Detalhes() {
     const { filme } = useParams();
 
+    const filmeEscolhido = filmes.filter(f =>
+        f.nome === filme
+    );
+
     return (
         <div>
             <Title
                 title={"Detalhes"}
-                text="" />               
-            <p>Filme: {filme}</p>
-            {(() => {
-                if (filme == 'Vingadores') {
-                    return (
-                        <div>
-                            <p>{filmes[0].descricao}</p>
-                            <p>{filmes[0].genero}</p>
-                        </div>
-                    )
-                } else if (filme == 'Vingadores 2') {
-                    return (
-                        <div>
-                            <p>{filmes[1].descricao}</p>
-                            <p>{filmes[1].genero}</p>
-                        </div>
-                    )
-                } else {
-                    return (
-                        <div>
-                            <p>{filmes[2].descricao}</p>
-                            <p>{filmes[2].genero}</p>
-                        </div>
-                    )
-                }
-            })()}
+                text="" />
+            <div className="container text-center">
+                <p>Filme: {filmeEscolhido[0].nome}</p>
+                <div>
+                    <p>{filmeEscolhido[0].descricao}</p>
+                    <p>{filmeEscolhido[0].genero}</p>
+                </div>
+                <Comments filme={filmeEscolhido[0].nome} />
+            </div>
         </div>
     )
 }
