@@ -21,3 +21,5 @@ Aula 03 - Rotas e Parâmetros: https://docs.google.com/presentation/d/1DKUf9CS7X
 Aula 04 - Props e Projeto Catálogo de Filmes: https://docs.google.com/presentation/d/1_Iw6IhFxzequQOopfCmq1kV2pYeePqRzuhUgB8ZRI10/edit?usp=share_link
 
 Aula 05 - Event Handlers e States https://docs.google.com/presentation/d/1MQf4qNF9WUpVzX4mkNos1oRbmEWOb0OaErorQ25Q59Q/edit?usp=sharing
+
+Aula 06 - useContext, useEffect, useRef: https://docs.google.com/presentation/d/1y1SFid4wojXDkYMFKNa6jN4B9e9rc-Ax6YzK9NnTvdA/edit?usp=share_link
