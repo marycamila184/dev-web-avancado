@@ -8,6 +8,10 @@
 
 * Todo o conteúdo disponibilizado aqui também está no portal!
 
+Cronograma - PLano de Aulas
+
+https://docs.google.com/document/d/1qeOTNAVs8xhU4DdomyT_c7kEg8W4rlOO/edit?usp=sharing&ouid=106959616818079075631&rtpof=true&sd=true
+
 Apresentações das Aulas:
 
 Aula 00 - Aula Inaugural: https://docs.google.com/presentation/d/17i9Xl-wlSM38f6KWh9VSeGfJOZ8tyKo6EsZWMBoXHCw/edit?usp=sharing
