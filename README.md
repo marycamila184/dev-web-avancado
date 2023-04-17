@@ -26,4 +26,4 @@ Aula 04 - Props e Projeto Catálogo de Filmes: https://docs.google.com/presentat
 
 Aula 05 - Event Handlers e States https://docs.google.com/presentation/d/1MQf4qNF9WUpVzX4mkNos1oRbmEWOb0OaErorQ25Q59Q/edit?usp=sharing
 
-Aula 06 - useContext, useEffect, useRef: https://docs.google.com/presentation/d/1y1SFid4wojXDkYMFKNa6jN4B9e9rc-Ax6YzK9NnTvdA/edit?usp=share_link
+Aula 06 - useState e useEffect: https://docs.google.com/presentation/d/1zhbh-J0Zm70sItQH-QosWMbFx6tdVBbSs8-wuVvkxXo/edit?usp=sharing
