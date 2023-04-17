@@ -8,7 +8,11 @@
 
 * Todo o conteúdo disponibilizado aqui também está no portal!
 
-Cronograma - PLano de Aulas
+Cronograma - PLano de Aulas - Segunda
+
+https://docs.google.com/document/d/1x1_20G7vB3wHqOCJCJ5tGspo5nF4mFSI/edit?usp=sharing&ouid=106959616818079075631&rtpof=true&sd=true
+
+Cronograma - PLano de Aulas - Sexta
 
 https://docs.google.com/document/d/1qeOTNAVs8xhU4DdomyT_c7kEg8W4rlOO/edit?usp=sharing&ouid=106959616818079075631&rtpof=true&sd=true
 
