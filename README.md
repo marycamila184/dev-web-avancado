@@ -24,9 +24,9 @@ Planilha com notas e avaliações - Sexta:
 https://docs.google.com/spreadsheets/d/1tmFivO20I4h9YhSFiLbH-Jkv7eCJdQHdJy2rRIJazxg/edit?usp=sharing
 
 
-* Todo o conteúdo disponibilizado aqui também está no portal!
+#### Apresentações das Aulas:
 
-Apresentações das Aulas:
+* Todo o conteúdo disponibilizado aqui também está no portal!
 
 Aula 00 - Aula Inaugural: https://docs.google.com/presentation/d/17i9Xl-wlSM38f6KWh9VSeGfJOZ8tyKo6EsZWMBoXHCw/edit?usp=sharing
 
