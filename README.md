@@ -4,17 +4,27 @@
 
 #### Turma - Osório - BSI e ES - Segunda - 19:00 às 21:50
 
-#### Turma - Ecoville - BSI e ES - Sexta - 19:00 às 21:50
-
-* Todo o conteúdo disponibilizado aqui também está no portal!
-
-Cronograma - PLano de Aulas - Segunda
+Cronograma - Plano de Aulas - Segunda
 
 https://docs.google.com/document/d/1x1_20G7vB3wHqOCJCJ5tGspo5nF4mFSI/edit?usp=sharing&ouid=106959616818079075631&rtpof=true&sd=true
 
-Cronograma - PLano de Aulas - Sexta
+Planilha com notas e avaliações - Segunda:
+
+https://docs.google.com/spreadsheets/d/1xYu-NJ-Y1WXYc4yNZ5T0SO_L5CEqF3GBGzGcYUbRnvs/edit?usp=sharing
+
+
+#### Turma - Ecoville - BSI e ES - Sexta - 19:00 às 21:50
+
+Cronograma - Plano de Aulas - Sexta
 
 https://docs.google.com/document/d/1qeOTNAVs8xhU4DdomyT_c7kEg8W4rlOO/edit?usp=sharing&ouid=106959616818079075631&rtpof=true&sd=true
+
+Planilha com notas e avaliações - Sexta:
+
+https://docs.google.com/spreadsheets/d/1tmFivO20I4h9YhSFiLbH-Jkv7eCJdQHdJy2rRIJazxg/edit?usp=sharing
+
+
+* Todo o conteúdo disponibilizado aqui também está no portal!
 
 Apresentações das Aulas:
 
