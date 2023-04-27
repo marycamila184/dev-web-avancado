@@ -3,9 +3,9 @@ import React, { useState, useEffect } from 'react';
 export default function CarregaTitulo() {
   const [listPosts, setlistPosts] = useState(null);
 
-  const options = {
-    method: 'GET'
-  };
+  // const options = {
+  //   method: 'GET'
+  // };
 
   useEffect(() => {
     fetch('https://my-json-server.typicode.com/typicode/demo/posts')
