@@ -41,3 +41,5 @@ Aula 04 - Props e Projeto Catálogo de Filmes: https://docs.google.com/presentat
 Aula 05 - Event Handlers e States https://docs.google.com/presentation/d/1MQf4qNF9WUpVzX4mkNos1oRbmEWOb0OaErorQ25Q59Q/edit?usp=sharing
 
 Aula 06 - useState e useEffect: https://docs.google.com/presentation/d/1zhbh-J0Zm70sItQH-QosWMbFx6tdVBbSs8-wuVvkxXo/edit?usp=sharing
+
+Aula 07 - Introdução ao Node.js: https://docs.google.com/presentation/d/192dJxlTpnHZ3lbrSaWHtbAT1JHlJjdz7t7s8HvTAtFY/edit?usp=sharing
