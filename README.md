@@ -42,4 +42,4 @@ Aula 05 - Event Handlers e States https://docs.google.com/presentation/d/1MQf4qN
 
 Aula 06 - useState e useEffect: https://docs.google.com/presentation/d/1zhbh-J0Zm70sItQH-QosWMbFx6tdVBbSs8-wuVvkxXo/edit?usp=sharing
 
-Aula 07 - Introdução ao Node.js: https://docs.google.com/presentation/d/192dJxlTpnHZ3lbrSaWHtbAT1JHlJjdz7t7s8HvTAtFY/edit?usp=sharing
+Aula 07 - Introdução ao Node.js: https://docs.google.com/presentation/d/1eX67HfEFIcu2jV9g8wntAmE4zodNNhaLfldQ6iltYDY/edit?usp=sharing
