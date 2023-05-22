@@ -45,3 +45,5 @@ Aula 06 - useState e useEffect: https://docs.google.com/presentation/d/1zhbh-J0Z
 Aula 07 - Introdução ao Node.js: https://docs.google.com/presentation/d/1eX67HfEFIcu2jV9g8wntAmE4zodNNhaLfldQ6iltYDY/edit?usp=sharing
 
 Aula 08 - Servidor Backend com Node.js: https://docs.google.com/presentation/d/1Z5AgIMPfmN1fGrAsOuq3TduB_QjebxbA9pN5HNeG9dM/edit?usp=sharing
+
+Aula 09 - NoSQL e NodeJs: https://docs.google.com/presentation/d/1U5W2uMrM3GQvR7I8TdFEoHjTnWF3avANDcAnw4Rkpwo/edit?usp=sharing
