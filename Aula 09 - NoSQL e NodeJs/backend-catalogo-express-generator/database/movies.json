@@ -1,0 +1,74 @@
+[
+    {
+      "id": 85,
+      "titulo": "The Avengers",
+      "ano": 2012,
+      "poster": "https://upload.wikimedia.org/wikipedia/pt/6/69/The_Avengers_Cartaz.jpg?20120429164328",
+      "nota": 4.9,
+      "assistido": true
+    },
+    {
+      "id": 14,
+      "titulo": "Avengers: Age of Ultron",
+      "ano": 2015,
+      "poster": "https://upload.wikimedia.org/wikipedia/pt/2/22/OsVingadores2.jpg?20150224175213",
+      "nota": 4.3,
+      "assistido": false
+    },
+    {
+      "id": 96,
+      "titulo": "Avengers: Infinity War",
+      "ano": 2018,
+      "poster": "https://upload.wikimedia.org/wikipedia/pt/9/90/Avengers_Infinity_War.jpg?20180316152122",
+      "nota": 4.8,
+      "assistido": true
+    },
+    {
+      "id": 78,
+      "titulo": "Avengers: Endgame",
+      "ano": 2019,
+      "poster": "https://upload.wikimedia.org/wikipedia/pt/9/9b/Avengers_Endgame.jpg?20190317150357",
+      "nota": 3.8,
+      "assistido": true
+    },
+    {
+      "id": 36,
+      "titulo": "Wonder Woman",
+      "ano": 2017,
+      "poster": "https://upload.wikimedia.org/wikipedia/pt/9/9f/Mulher_Maravilha_2009.jpg?20171230123503",
+      "nota": 5,
+      "assistido": false
+    },
+    {
+      "id": 39,
+      "titulo": "Doctor Strange",
+      "ano": 2016,
+      "poster": "https://upload.wikimedia.org/wikipedia/pt/c/c7/Doctor_Strange_poster.jpg",
+      "nota": 5,
+      "assistido": true
+    },
+    {
+      "id": 80,
+      "titulo": "Guardians of the Galaxy",
+      "ano": 2014,
+      "poster": "https://upload.wikimedia.org/wikipedia/pt/b/b2/Guardiansgalaxyposter.jpg",
+      "nota": 4.8,
+      "assistido": true
+    },
+    {
+      "id": 43,
+      "titulo": "Iron Man 2",
+      "ano": 2021,
+      "poster": "https://upload.wikimedia.org/wikipedia/pt/9/9a/Homem_de_Ferro_2_-_Poster.jpg",
+      "nota": 4.7,
+      "assistido": true
+    },
+    {
+      "id": 61,
+      "titulo": "Iron Man",
+      "ano": 2008,
+      "poster": "https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg",
+      "nota": 5,
+      "assistido": false
+    }
+  ]
