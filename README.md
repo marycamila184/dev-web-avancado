@@ -46,4 +46,4 @@ Aula 07 - Introdução ao Node.js: https://docs.google.com/presentation/d/1eX67H
 
 Aula 08 - Servidor Backend com Node.js: https://docs.google.com/presentation/d/1Z5AgIMPfmN1fGrAsOuq3TduB_QjebxbA9pN5HNeG9dM/edit?usp=sharing
 
-Aula 09 - NoSQL e NodeJs: https://docs.google.com/presentation/d/1U5W2uMrM3GQvR7I8TdFEoHjTnWF3avANDcAnw4Rkpwo/edit?usp=sharing
+Aula 09 - NoSQL e NodeJs: https://docs.google.com/presentation/d/1nCTHeulKQEMZWs_HqB4pEji05YJe3gK_UM7ZUMtc8ns/edit?usp=sharing
