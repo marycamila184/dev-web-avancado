@@ -10,7 +10,7 @@ https://docs.google.com/document/d/1x1_20G7vB3wHqOCJCJ5tGspo5nF4mFSI/edit?usp=sh
 
 Planilha com notas e avaliações - Segunda:
 
-https://docs.google.com/spreadsheets/d/1xYu-NJ-Y1WXYc4yNZ5T0SO_L5CEqF3GBGzGcYUbRnvs/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1pjbXe2ooFCHiZF9sU5ftbA8ujUtPFrpv/edit?usp=sharing&ouid=106959616818079075631&rtpof=true&sd=true
 
 
 #### Turma - Ecoville - BSI e ES - Sexta - 19:00 às 21:50
