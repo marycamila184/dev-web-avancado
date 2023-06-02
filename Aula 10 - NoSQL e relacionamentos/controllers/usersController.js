@@ -7,11 +7,12 @@ class UsersController {
         const max = await userModel.findOne({}).sort({ codigo: -1 });
         user.codigo = max == null ? 1 : max.user + 1;
 
+        //Precisamos inserir um plano primeiro
         const plan = await planModel.findOne({ codigo: plan.codigo });
         user.plan = plan._id;
 
         const resultado = await userModel.create(user);
-        res.status(201).send();
+        res.status(201).json(resultado);
     }
 
     async listar(req, res) {

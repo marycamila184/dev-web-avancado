@@ -7,21 +7,6 @@ class MovieController {
         movie.id = max == null ? 1 : max.id + 1;
         const resultado = await movieModel.create(movie);
         res.status(201).json(resultado);
-
-
-        //     const cliente = req.body;
-        // const max = await clienteModel.findOne({}).sort({codigo: -1});
-        // cliente.codigo = max == null ? 1 : max.codigo + 1;
-
-        // const usuario = await usuarioModel.findOne({codigo: cliente.usuario.codigo});
-        // cliente.usuario = usuario._id;
-
-        // const loja = await lojaModel.findOne({codigo: cliente.loja.codigo});
-        // cliente.loja = loja._id;
-
-        // const resultado = await clienteModel.create(cliente);
-        // res.status(201).send();
-
     }
 
     async listar(req, res) {
