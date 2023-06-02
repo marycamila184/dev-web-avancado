@@ -48,4 +48,4 @@ Aula 08 - Servidor Backend com Node.js: https://docs.google.com/presentation/d/1
 
 Aula 09 - NoSQL e NodeJs: https://docs.google.com/presentation/d/1nCTHeulKQEMZWs_HqB4pEji05YJe3gK_UM7ZUMtc8ns/edit?usp=sharing
 
-Aula 10 - NoSQL e Relacionamentos: https://docs.google.com/presentation/d/1Cve-14icW_Df5OQ6_JSByrNH50qyNW9qjKU-wZDEcZo/edit?usp=sharing
+Aula 10 - NoSQL e Relacionamentos: https://docs.google.com/presentation/d/1Ws9W8X4vvqgmPhY1fuQtRHP0__skJ4-esmTvxodTrHA/edit?usp=sharing
