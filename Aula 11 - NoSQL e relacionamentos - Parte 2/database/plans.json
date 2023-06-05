@@ -1,0 +1,12 @@
+[
+    {
+        "codigo": 1,
+        "nome": "Free",
+        "mensalidade": 0
+    },
+    {
+        "codigo": 2,
+        "nome": "Mensal",
+        "mensalidade": 19.90
+    }
+]

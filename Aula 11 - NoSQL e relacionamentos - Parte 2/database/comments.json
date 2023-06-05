@@ -1,0 +1,12 @@
+[
+    {
+        "codigo": 1,
+        "comentario": "Teste comentário",
+        "user": 10
+    },
+    {
+        "codigo": 2,
+        "comentario": "Teste comentário 2",
+        "user": 20
+    }
+]

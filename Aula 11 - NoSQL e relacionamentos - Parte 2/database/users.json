@@ -1,0 +1,14 @@
+[
+    {
+        "codigo": 10,
+        "nome": "Mary Camila",
+        "cpf": "78733138753",
+        "plano": 1
+    },
+    {
+        "codigo": 20,
+        "nome": "João da Silva",
+        "cpf": "36726623054",
+        "plano": 2
+    }
+]
