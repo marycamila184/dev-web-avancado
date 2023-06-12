@@ -1,0 +1,24 @@
+{
+    "swagger": "2.0",
+    "info": {
+      "title": "Catálogo de Filmes",
+      "description": "API Catálogo de Filmes",
+      "version": "1.0"
+    },
+    "host": "localhost:3001",
+    "basePath": "/",
+    "schemes": [
+      "http"
+    ],
+    "paths": {
+      "/movie": {
+        "get": {
+          "description": "Retorna Filmes.",
+          "operationId": "GET - Filmes",
+          "parameters": [
+          ],
+          "responses": {}
+        }
+      }
+    }   
+}
