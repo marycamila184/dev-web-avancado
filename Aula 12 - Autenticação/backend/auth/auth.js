@@ -3,15 +3,15 @@ const auth = require('./app.json');
 
 const bcryptjs = require('bcryptjs');
 
-async function incluirToken(usuario){
-  const token = await jwt.sign({id: usuario.id}, auth.appId, {
+async function incluirToken(cliente) {
+  const token = await jwt.sign({ codigo: cliente.codigo }, auth.appId, {
     expiresIn: 3600 // Expira em 3600 segundos ou 1 hora.
   });
-  usuario.token = token;
-  usuario.senha = undefined;
+  cliente.token = token;
+  cliente.senha = undefined;
 }
 
-async function gerarHash(usuario){
+async function gerarHash(usuario) {
   if (typeof usuario.senha !== 'undefined') {
     const hash = await bcryptjs.hash(usuario.senha, 10);
     usuario.senha = hash;
@@ -19,28 +19,28 @@ async function gerarHash(usuario){
   return usuario;
 }
 
-function autorizar(req, res, next){
+function autorizar(req, res, next) {
   const authHeader = req.headers.authorization;
 
-  if (!authHeader){
-    return res.status(401).send({error: 'O token não foi enviado!'});
+  if (!authHeader) {
+    return res.status(401).send({ error: 'O token não foi enviado!' });
   }
 
   const partes = authHeader.split(' ');
 
-  if (partes && partes.length !== 2){
-    return res.status(401).send({error: 'Token incompleto!'});
+  if (partes && partes.length !== 2) {
+    return res.status(401).send({ error: 'Token incompleto!' });
   }
 
   const [tipo, token] = partes;
 
-  if (!/^Bearer$/i.test(tipo)){
-    return res.status(401).send({error: 'Token mal formado!'});
+  if (!/^Bearer$/i.test(tipo)) {
+    return res.status(401).send({ error: 'Token mal formado!' });
   }
 
   jwt.verify(token, auth.appId, (err, usuario) => {
     if (err) {
-      return res.status(401).send({error: 'Token inválido!'});
+      return res.status(401).send({ error: 'Token inválido!' });
     }
     req.usuarioLogadoId = usuario.id;
     return next();

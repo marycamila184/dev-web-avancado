@@ -7,7 +7,7 @@ const clienteSchema = new mongoose.Schema({
         type: String,
         require: true
     },
-    fone: String,
+    telefone: String,
     email: {
         type: String,
         unique: true,
