@@ -51,3 +51,5 @@ Aula 09 - NoSQL e NodeJs: https://docs.google.com/presentation/d/1nCTHeulKQEMZWs
 Aula 10 - NoSQL e Relacionamentos: https://docs.google.com/presentation/d/1Ws9W8X4vvqgmPhY1fuQtRHP0__skJ4-esmTvxodTrHA/edit?usp=sharing
 
 Aula 11 - NoSQL e Relacionamentos - Parte 2: https://docs.google.com/presentation/d/1CDfYhO8o5PGST-omzBgF4hFNhKCv26oZVp2fC6ks_y8/edit?usp=sharing
+
+Aula 12 - Autenticação e JWT - https://docs.google.com/presentation/d/1T32oe61OlzLtVErvpUJnfLtyntNnxNQnagzkpxQ0FEs/edit?usp=sharing
